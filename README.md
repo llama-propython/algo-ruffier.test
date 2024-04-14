@@ -8,7 +8,7 @@ Interesting fact: this README.md file is wroten by youngest dude in whole class!
 
 
 
-FILES
+# FILES
 
 ALGOLIB.py is a file with all the necessary program functions, counters and so on.
 MAIN.py is a main program file (so obvious). It uses ALGOLIB.py library.
